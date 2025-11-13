@@ -1,0 +1,3102 @@
+[
+  {
+  "id": "f8b2e9a1-9c3f-4d45-91a4-2d57b9d31c11",
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Kung Pao Chicken",
+      "price": "144",
+      "rating": "4.5",
+      "ratingCount": 66,
+      "description": "Spicy stir-fried chicken with peanuts, vegetables, and chili peppers.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 2,
+      "name": "Sweet and Sour Pork",
+      "price": "497",
+      "rating": "4.0",
+      "ratingCount": 75,
+      "description": "Tender pork cooked in a tangy and sweet sauce with pineapple and bell peppers.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 3,
+      "name": "General Tso's Chicken",
+      "price": "208",
+      "rating": "4.2",
+      "ratingCount": 64,
+      "description": "Crispy chicken coated in a sweet, tangy, and slightly spicy sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 4,
+      "name": "Chow Mein",
+      "price": "332",
+      "rating": "3.4",
+      "ratingCount": 27,
+      "description": "Stir-fried noodles with vegetables and your choice of meat or tofu.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 5,
+      "name": "Fried Rice",
+      "price": "258",
+      "rating": "4.3",
+      "ratingCount": 88,
+      "description": "Classic stir-fried rice with eggs, vegetables, and optional chicken or shrimp.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 6,
+      "name": "Spring Rolls",
+      "price": "408",
+      "rating": "4.4",
+      "ratingCount": 75,
+      "description": "Crispy rolls stuffed with vegetables and served with sweet chili sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 7,
+      "name": "Dim Sum",
+      "price": "336",
+      "rating": "3.2",
+      "ratingCount": 98,
+      "description": "Steamed dumplings filled with meat, vegetables, or seafood, served with dipping sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 8,
+      "name": "Hot and Sour Soup",
+      "price": "440",
+      "rating": "3.7",
+      "ratingCount": 51,
+      "description": "A flavorful soup with tofu, mushrooms, bamboo shoots, and a spicy-sour taste.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 9,
+      "name": "Ma Po Tofu",
+      "price": "264",
+      "rating": "4.6",
+      "ratingCount": 48,
+      "description": "Soft tofu in a spicy chili and bean-based sauce with vegetables.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 10,
+      "name": "Peking Duck",
+      "price": "273",
+      "rating": "4.3",
+      "ratingCount": 64,
+      "description": "Crispy roasted duck served with pancakes, scallions, and hoisin sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 11,
+      "name": "Seafood Stir Fry",
+      "price": "361",
+      "rating": "3.7",
+      "ratingCount": 29,
+      "description": "Mixed seafood with vegetables in a light garlic sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 12,
+      "name": "Chicken Chow Fun",
+      "price": "236",
+      "rating": "4.5",
+      "ratingCount": 40,
+      "description": "Flat rice noodles stir-fried with chicken, bean sprouts, and soy sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 13,
+      "name": "Egg Fried Rice",
+      "price": "117",
+      "rating": "3.8",
+      "ratingCount": 46,
+      "description": "Classic fried rice with scrambled eggs, scallions, and soy sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 14,
+      "name": "Vegetable Lo Mein",
+      "price": "180",
+      "rating": "3.4",
+      "ratingCount": 81,
+      "description": "Soft noodles stir-fried with fresh vegetables and a light soy sauce.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 15,
+      "name": "Spring Onion Pancakes",
+      "price": "438",
+      "rating": "4.4",
+      "ratingCount": 33,
+      "description": "Crispy Chinese-style pancakes with fresh spring onions and sesame oil.",
+      "image": "https://media.istockphoto.com/id/839958568/photo/dim-sum.jpg?s=1024x1024&w=is&k=20&c=xzeVGMCxeyqhMGtRpACpFJo8DHSKtgusPaiiExdds7k=",
+      "isCustomisable": true
+    }
+  ]
+ },
+  {
+    "id": "c3f7a2b8-4a92-48c6-a2c7-8b51ad1e9d8e",
+    "menuItems": [
+  {
+    "id": 1,
+    "name": "Margherita Pizza",
+    "price": "144",
+    "rating": "4.5",
+    "ratingCount": 66,
+    "description": "Classic Margherita with fresh mozzarella, tomato sauce, and basil for a perfect balance of flavors.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 2,
+    "name": "Pepperoni Pizza",
+    "price": "497",
+    "rating": "4.0",
+    "ratingCount": 75,
+    "description": "Loaded with spicy pepperoni slices and gooey cheese for the ultimate pizza experience.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 3,
+    "name": "Veggie Delight Pizza",
+    "price": "208",
+    "rating": "4.2",
+    "ratingCount": 64,
+    "description": "Topped with fresh vegetables, olives, and bell peppers for a healthy and tasty treat.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 4,
+    "name": "BBQ Chicken Pizza",
+    "price": "332",
+    "rating": "3.4",
+    "ratingCount": 27,
+    "description": "Grilled chicken with smoky BBQ sauce and cheese for a rich, tangy flavor.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 5,
+    "name": "Hawaiian Pizza",
+    "price": "258",
+    "rating": "4.3",
+    "ratingCount": 88,
+    "description": "Sweet pineapple and ham on a cheesy base for a tropical twist.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 6,
+    "name": "Four Cheese Pizza",
+    "price": "408",
+    "rating": "4.4",
+    "ratingCount": 75,
+    "description": "A blend of mozzarella, cheddar, parmesan, and gorgonzola for cheese lovers.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 7,
+    "name": "Mexican Pizza",
+    "price": "336",
+    "rating": "3.2",
+    "ratingCount": 98,
+    "description": "Spicy toppings with jalapenos, beans, and peppers for a Mexican flavor punch.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 8,
+    "name": "Chicken Tikka Pizza",
+    "price": "440",
+    "rating": "3.7",
+    "ratingCount": 51,
+    "description": "Tender chicken tikka pieces with onions and bell peppers, a fusion of Indian and Italian flavors.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 9,
+    "name": "Mushroom Pizza",
+    "price": "264",
+    "rating": "4.6",
+    "ratingCount": 48,
+    "description": "Fresh mushrooms and cheese on a savory tomato base, simple yet delicious.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 10,
+    "name": "Spicy Veggie Pizza",
+    "price": "273",
+    "rating": "4.3",
+    "ratingCount": 64,
+    "description": "Loaded with jalapenos, bell peppers, and onions for a fiery veggie delight.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 11,
+    "name": "Cheese Burst Pizza",
+    "price": "361",
+    "rating": "3.7",
+    "ratingCount": 29,
+    "description": "Cheese-filled crust with extra mozzarella on top for an indulgent pizza experience.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 12,
+    "name": "Paneer Tikka Pizza",
+    "price": "236",
+    "rating": "4.5",
+    "ratingCount": 40,
+    "description": "Indian-style paneer tikka with onions and capsicum for a flavorful vegetarian pizza.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  },
+  {
+    "id": 13,
+    "name": "Buffalo Chicken Pizza",
+    "price": "117",
+    "rating": "3.8",
+    "ratingCount": 46,
+    "description": "Spicy buffalo chicken with cheese for a tangy, bold flavor.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 14,
+    "name": "Supreme Pizza",
+    "price": "180",
+    "rating": "3.4",
+    "ratingCount": 81,
+    "description": "Loaded with veggies, chicken, and pepperoni for a pizza with everything on it.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": false
+  },
+  {
+    "id": 15,
+    "name": "Cheesy Garlic Pizza",
+    "price": "438",
+    "rating": "4.4",
+    "ratingCount": 33,
+    "description": "Garlic-flavored base with extra cheese for a rich, aromatic treat.",
+    "image": "https://as2.ftcdn.net/jpg/02/20/63/99/1000_F_220639944_GIG2wbAIjMiO1smcPJhzhKrpTNbaKDNQ.webp",
+    "isCustomisable": true
+  }
+    ]
+  },
+  {
+  "id": "d91f6f14-6b6c-4a59-9cda-89e6c7f9b927",
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Chocoholic Cake",
+      "price": "215",
+      "rating": "4.6",
+      "ratingCount": 17,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    },
+    {
+      "id": 2,
+      "name": "Nutty Fudge Cake",
+      "price": "167",
+      "rating": "3.9",
+      "ratingCount": 88,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 3,
+      "name": "Red Velvet Cake",
+      "price": "170",
+      "rating": "3.0",
+      "ratingCount": 75,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 4,
+      "name": "Black Forest Cake",
+      "price": "476",
+      "rating": "3.0",
+      "ratingCount": 56,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 5,
+      "name": "Truffle Chocolate Cake",
+      "price": "254",
+      "rating": "4.5",
+      "ratingCount": 37,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    },
+    {
+      "id": 6,
+      "name": "Butterscotch Cake",
+      "price": "207",
+      "rating": "4.7",
+      "ratingCount": 84,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    },
+    {
+      "id": 7,
+      "name": "Blueberry Cheesecake",
+      "price": "128",
+      "rating": "3.2",
+      "ratingCount": 100,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 8,
+      "name": "Mocha Cake",
+      "price": "423",
+      "rating": "3.3",
+      "ratingCount": 88,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 9,
+      "name": "Almond Delight Cake",
+      "price": "367",
+      "rating": "3.6",
+      "ratingCount": 15,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    },
+    {
+      "id": 10,
+      "name": "Mango Mousse Cake",
+      "price": "221",
+      "rating": "4.2",
+      "ratingCount": 65,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 11,
+      "name": "Pineapple Pastry Cake",
+      "price": "101",
+      "rating": "3.7",
+      "ratingCount": 26,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    },
+    {
+      "id": 12,
+      "name": "Classic Vanilla Cake",
+      "price": "153",
+      "rating": "3.4",
+      "ratingCount": 72,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 13,
+      "name": "Strawberry Shortcake",
+      "price": "397",
+      "rating": "3.6",
+      "ratingCount": 63,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 14,
+      "name": "Caramel Crunch Cake",
+      "price": "119",
+      "rating": "3.6",
+      "ratingCount": 22,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": false
+    },
+    {
+      "id": 15,
+      "name": "Walnut Brownie Cake",
+      "price": "289",
+      "rating": "3.4",
+      "ratingCount": 24,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://theobroma.in/cdn/shop/files/ChocoholicCakehalfkg.jpg?v=1711125918",
+      "isCustomisable": true
+    }
+  ]
+  },
+  {
+    "id": "a78c94e2-23e1-45d7-8f7f-36d5242fdcc5",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Biryani",
+        "price": "127",
+        "rating": "3.2",
+        "ratingCount": 42,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Butter Chicken",
+        "price": "248",
+        "rating": "4.9",
+        "ratingCount": 77,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Paneer Tikka",
+        "price": "479",
+        "rating": "4.3",
+        "ratingCount": 25,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Chole Bhature",
+        "price": "135",
+        "rating": "4.3",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Dosa",
+        "price": "322",
+        "rating": "4.3",
+        "ratingCount": 58,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Idli Sambar",
+        "price": "340",
+        "rating": "3.4",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Aloo Paratha",
+        "price": "317",
+        "rating": "3.9",
+        "ratingCount": 53,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Rogan Josh",
+        "price": "165",
+        "rating": "4.0",
+        "ratingCount": 40,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Masala Dosa",
+        "price": "395",
+        "rating": "4.9",
+        "ratingCount": 80,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Chicken Curry",
+        "price": "269",
+        "rating": "4.3",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "Rajma Chawal",
+        "price": "111",
+        "rating": "3.2",
+        "ratingCount": 51,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Prawn Masala",
+        "price": "448",
+        "rating": "3.9",
+        "ratingCount": 54,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Veg Pulao",
+        "price": "424",
+        "rating": "4.0",
+        "ratingCount": 11,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Mutton Korma",
+        "price": "272",
+        "rating": "3.2",
+        "ratingCount": 46,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Dal Makhani",
+        "price": "205",
+        "rating": "4.9",
+        "ratingCount": 65,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      }
+    ]
+  },
+  {
+    "id": "b62eaf03-3d5c-4b8e-b7b8-47c65bfc41e8",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Classic Cheeseburger",
+        "price": "274",
+        "rating": "3.5",
+        "ratingCount": 34,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Bacon Burger",
+        "price": "114",
+        "rating": "3.7",
+        "ratingCount": 11,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Veggie Burger",
+        "price": "409",
+        "rating": "3.7",
+        "ratingCount": 16,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Double Cheeseburger",
+        "price": "300",
+        "rating": "4.2",
+        "ratingCount": 94,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Mushroom Swiss Burger",
+        "price": "233",
+        "rating": "4.8",
+        "ratingCount": 60,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "BBQ Burger",
+        "price": "197",
+        "rating": "3.8",
+        "ratingCount": 49,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Spicy Chicken Burger",
+        "price": "233",
+        "rating": "3.0",
+        "ratingCount": 95,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Chicken Burger",
+        "price": "134",
+        "rating": "3.0",
+        "ratingCount": 93,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Cheese & Jalapeno Burger",
+        "price": "178",
+        "rating": "4.3",
+        "ratingCount": 21,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Veggie Delight Burger",
+        "price": "276",
+        "rating": "4.5",
+        "ratingCount": 41,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Chicken Bacon Burger",
+        "price": "230",
+        "rating": "3.3",
+        "ratingCount": 92,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Double Patty Burger",
+        "price": "424",
+        "rating": "4.8",
+        "ratingCount": 70,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Buffalo Burger",
+        "price": "450",
+        "rating": "4.0",
+        "ratingCount": 18,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Spicy Veggie Burger",
+        "price": "473",
+        "rating": "4.7",
+        "ratingCount": 19,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Hawaiian Burger",
+        "price": "290",
+        "rating": "3.8",
+        "ratingCount": 35,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/495204032/photo/fresh-tasty-burger.jpg?s=1024x1024&w=is&k=20&c=QZM9s-dFrWW6uIteg19_t8BCBFLdo-_kBOj6Mb46ST8=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "9f21a3a7-0b3d-45b3-9f43-1cb65473fd72",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Hyderabadi Biryani",
+        "price": "127",
+        "rating": "3.2",
+        "ratingCount": 42,
+        "description": "A royal biryani from Hyderabad, featuring marinated meat and basmati rice, cooked using the dum method.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Lucknowi (Awadhi) Biryani",
+        "price": "248",
+        "rating": "4.9",
+        "ratingCount": 77,
+        "description": "A subtle and aromatic biryani from Lucknow, known for its delicate spices and layering technique.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Kolkata Biryani",
+        "price": "479",
+        "rating": "4.3",
+        "ratingCount": 25,
+        "description": "A lighter biryani from Kolkata, distinguished by the inclusion of boiled eggs and potatoes.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Malabar (Thalassery) Biryani",
+        "price": "135",
+        "rating": "4.3",
+        "ratingCount": 78,
+        "description": "A coastal biryani from Kerala, made with kaima rice and infused with coconut oil and spices.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Dindigul Biryani",
+        "price": "322",
+        "rating": "4.3",
+        "ratingCount": 58,
+        "description": "A spicy and tangy biryani from Tamil Nadu, using seeraga samba rice and a unique blend of spices.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Ambur Biryani",
+        "price": "340",
+        "rating": "3.4",
+        "ratingCount": 96,
+        "description": "A biryani from Tamil Nadu, known for its use of short-grain rice and a spicy, tangy flavor.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Chettinad Biryani",
+        "price": "317",
+        "rating": "3.9",
+        "ratingCount": 53,
+        "description": "A fiery biryani from Tamil Nadu, featuring bold spices and a rich, aromatic profile.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Tahari Biryani",
+        "price": "165",
+        "rating": "4.0",
+        "ratingCount": 40,
+        "description": "A vegetarian biryani, made with spiced vegetables and basmati rice, offering a delightful aroma.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Kalyani Biryani",
+        "price": "395",
+        "rating": "4.9",
+        "ratingCount": 80,
+        "description": "A lesser-known biryani from Hyderabad, made with buffalo meat and tangy spices.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Bombay Biryani",
+        "price": "269",
+        "rating": "4.3",
+        "ratingCount": 55,
+        "description": "A biryani from Mumbai, characterized by its sweet and tangy notes, influenced by the city's diverse heritage.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "Bhatkali Biryani",
+        "price": "111",
+        "rating": "3.2",
+        "ratingCount": 51,
+        "description": "A coastal biryani from Karnataka, known for its one-pot preparation and rich flavors.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Memoni Biryani",
+        "price": "448",
+        "rating": "3.9",
+        "ratingCount": 54,
+        "description": "A spicy biryani from Gujarat, typically made with beef and minimal gravy.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Beary Biryani",
+        "price": "424",
+        "rating": "4.0",
+        "ratingCount": 11,
+        "description": "A biryani from coastal Karnataka, made with green chilies and coconut, offering a rich, mildly spicy flavor.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Kozhikode (Calicut) Biryani",
+        "price": "272",
+        "rating": "3.2",
+        "ratingCount": 46,
+        "description": "A biryani from Kerala, featuring kaima rice and a subtle blend of spices.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Sofiyani Biryani",
+        "price": "205",
+        "rating": "4.9",
+        "ratingCount": 65,
+        "description": "A Hyderabadi variant known for its white color, made with khoya and almond paste, catering to those who prefer less spicy food.",
+        "image": "https://cdn.britannica.com/35/225835-050-A5CC289A/Indian-one-pot-meal-for-party.jpg",
+        "isCustomisable": false
+      }
+    ]
+  },
+  {
+    "id": "4b2e97d4-95b8-4801-bab0-8cd30d837f3e",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Spring Rolls",
+        "price": "400",
+        "rating": "3.1",
+        "ratingCount": 90,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Egg Rolls",
+        "price": "323",
+        "rating": "4.0",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Paneer Rolls",
+        "price": "248",
+        "rating": "4.6",
+        "ratingCount": 28,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Chicken Rolls",
+        "price": "387",
+        "rating": "3.5",
+        "ratingCount": 48,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Veg Rolls",
+        "price": "348",
+        "rating": "4.4",
+        "ratingCount": 100,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Mutton Rolls",
+        "price": "391",
+        "rating": "3.3",
+        "ratingCount": 72,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Cheese Rolls",
+        "price": "469",
+        "rating": "3.5",
+        "ratingCount": 42,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Paneer Tikka Rolls",
+        "price": "259",
+        "rating": "3.8",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Chicken Tikka Rolls",
+        "price": "439",
+        "rating": "4.4",
+        "ratingCount": 61,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Egg Cheese Rolls",
+        "price": "385",
+        "rating": "4.7",
+        "ratingCount": 17,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "Chicken Cheese Rolls",
+        "price": "486",
+        "rating": "3.3",
+        "ratingCount": 59,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Paneer Masala Rolls",
+        "price": "434",
+        "rating": "3.0",
+        "ratingCount": 87,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Spicy Chicken Rolls",
+        "price": "433",
+        "rating": "3.1",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Veg Cheese Rolls",
+        "price": "422",
+        "rating": "4.9",
+        "ratingCount": 30,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Mutton Cheese Rolls",
+        "price": "447",
+        "rating": "3.7",
+        "ratingCount": 52,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "0eaf14b2-1f8e-4827-bb76-baf4b32899a4",
+   "menuItems": [
+      {
+        "id": 1,
+        "name": "Italian B.M.T.",
+        "price": "376",
+        "rating": "4.1",
+        "ratingCount": 68,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      },
+      {
+        "id": 2,
+        "name": "Turkey Breast",
+        "price": "310",
+        "rating": "4.9",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Veggie Delight",
+        "price": "140",
+        "rating": "4.5",
+        "ratingCount": 94,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Tuna",
+        "price": "137",
+        "rating": "3.1",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Spicy Italian",
+        "price": "289",
+        "rating": "3.2",
+        "ratingCount": 82,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Chicken Teriyaki",
+        "price": "278",
+        "rating": "4.1",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Roast Beef",
+        "price": "135",
+        "rating": "3.5",
+        "ratingCount": 41,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      },
+      {
+        "id": 8,
+        "name": "Subway Club",
+        "price": "434",
+        "rating": "4.1",
+        "ratingCount": 35,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Steak & Cheese",
+        "price": "457",
+        "rating": "3.1",
+        "ratingCount": 70,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Veggie Patty",
+        "price": "345",
+        "rating": "4.4",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "BLT",
+        "price": "374",
+        "rating": "4.9",
+        "ratingCount": 71,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Cold Cut Combo",
+        "price": "395",
+        "rating": "3.9",
+        "ratingCount": 66,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Meatball Marinara",
+        "price": "466",
+        "rating": "4.8",
+        "ratingCount": 60,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Tuna Melt",
+        "price": "451",
+        "rating": "4.3",
+        "ratingCount": 73,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Chicken Bacon Ranch",
+        "price": "498",
+        "rating": "4.3",
+        "ratingCount": 73,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1942282324/photo/subway-editorial-imagery.jpg?s=1024x1024&w=gi&k=20&c=vDJYIPjd4AwXQTKlYsmGwNERk5PeL3OWp7axQOgkpKo=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "fd9123f1-49f4-4e7b-bd93-8eabf7a5d3a1",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Caffe Latte",
+        "price": "173",
+        "rating": "4.4",
+        "ratingCount": 99,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 2,
+        "name": "Caramel Macchiato",
+        "price": "101",
+        "rating": "3.4",
+        "ratingCount": 89,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Cappuccino",
+        "price": "433",
+        "rating": "3.5",
+        "ratingCount": 21,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Flat White",
+        "price": "417",
+        "rating": "4.3",
+        "ratingCount": 51,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Mocha",
+        "price": "131",
+        "rating": "4.9",
+        "ratingCount": 38,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Iced Coffee",
+        "price": "211",
+        "rating": "4.3",
+        "ratingCount": 77,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Frappuccino",
+        "price": "411",
+        "rating": "3.1",
+        "ratingCount": 21,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 8,
+        "name": "Pumpkin Spice Latte",
+        "price": "169",
+        "rating": "4.7",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Chai Latte",
+        "price": "479",
+        "rating": "3.3",
+        "ratingCount": 72,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Nitro Cold Brew",
+        "price": "289",
+        "rating": "3.8",
+        "ratingCount": 11,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Matcha Green Tea Latte",
+        "price": "409",
+        "rating": "3.5",
+        "ratingCount": 81,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Espresso",
+        "price": "394",
+        "rating": "3.7",
+        "ratingCount": 33,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Iced Latte",
+        "price": "243",
+        "rating": "4.1",
+        "ratingCount": 97,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Caramel Frappuccino",
+        "price": "199",
+        "rating": "4.2",
+        "ratingCount": 59,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Pumpkin Cream Cold Brew",
+        "price": "310",
+        "rating": "3.1",
+        "ratingCount": 36,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/2206748753/photo/starbucks-price-inflation.jpg?s=1024x1024&w=gi&k=20&c=-JwXXXDNE_Xe2GsNUKold26ZdXNSekyn9aqXuNDEOq4=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "3a64bca8-b4d7-4d77-83e4-76e8799a7f4c",
+   "menuItems": [
+      {
+        "id": 1,
+        "name": "Original Recipe Chicken",
+        "price": "422",
+        "rating": "4.7",
+        "ratingCount": 50,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Zinger Burger",
+        "price": "137",
+        "rating": "4.5",
+        "ratingCount": 59,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Hot & Crispy Chicken",
+        "price": "274",
+        "rating": "4.4",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Chicken Popcorn",
+        "price": "475",
+        "rating": "5.0",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Hot Wings",
+        "price": "148",
+        "rating": "3.6",
+        "ratingCount": 70,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Twister Wrap",
+        "price": "184",
+        "rating": "4.8",
+        "ratingCount": 93,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Bucket Meal",
+        "price": "277",
+        "rating": "3.1",
+        "ratingCount": 48,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Cheese Zinger",
+        "price": "243",
+        "rating": "4.4",
+        "ratingCount": 27,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Fiery Grilled Chicken",
+        "price": "340",
+        "rating": "4.4",
+        "ratingCount": 59,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Veg Zinger",
+        "price": "189",
+        "rating": "3.4",
+        "ratingCount": 56,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "Hot & Crispy Strips",
+        "price": "473",
+        "rating": "4.6",
+        "ratingCount": 10,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Popcorn Chicken Meal",
+        "price": "400",
+        "rating": "3.3",
+        "ratingCount": 61,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Chicken Fillet Burger",
+        "price": "392",
+        "rating": "4.0",
+        "ratingCount": 94,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "KFC Fries",
+        "price": "299",
+        "rating": "3.7",
+        "ratingCount": 47,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Chicken Bucket for 2",
+        "price": "422",
+        "rating": "4.6",
+        "ratingCount": 29,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/41/62/96/1000_F_541629636_RlfZtQI6uIOW9Uj52x6HpczOlFNVps4L.jpg",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "ed92a5b0-73f8-44c8-bb26-f3f762f0d9b7",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "price": "326",
+        "rating": "4.5",
+        "ratingCount": 71,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image":"https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Mutton Biryani",
+        "price": "408",
+        "rating": "3.8",
+        "ratingCount": 12,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Fish Biryani",
+        "price": "236",
+        "rating": "3.8",
+        "ratingCount": 46,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Veg Biryani",
+        "price": "214",
+        "rating": "4.6",
+        "ratingCount": 22,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Hyderabadi Biryani",
+        "price": "393",
+        "rating": "4.4",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Kacchi Biryani",
+        "price": "126",
+        "rating": "4.0",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Bombay Biryani",
+        "price": "233",
+        "rating": "3.6",
+        "ratingCount": 50,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Lucknowi Biryani",
+        "price": "486",
+        "rating": "4.9",
+        "ratingCount": 50,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Chettinad Biryani",
+        "price": "149",
+        "rating": "3.7",
+        "ratingCount": 81,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Paneer Biryani",
+        "price": "399",
+        "rating": "4.2",
+        "ratingCount": 70,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Egg Biryani",
+        "price": "374",
+        "rating": "4.0",
+        "ratingCount": 63,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Hyderabadi Veg Biryani",
+        "price": "387",
+        "rating": "4.8",
+        "ratingCount": 77,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Tangdi Biryani",
+        "price": "407",
+        "rating": "4.7",
+        "ratingCount": 44,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Sindhi Biryani",
+        "price": "343",
+        "rating": "4.4",
+        "ratingCount": 92,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Beef Biryani",
+        "price": "276",
+        "rating": "4.2",
+        "ratingCount": 48,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "7b4df62c-81e9-4a26-ae07-6db44d812a1b",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Glazed Donut",
+        "price": "104",
+        "rating": "3.7",
+        "ratingCount": 67,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 2,
+        "name": "Chocolate Frosted Donut",
+        "price": "485",
+        "rating": "3.1",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Strawberry Frosted Donut",
+        "price": "403",
+        "rating": "4.2",
+        "ratingCount": 81,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Sprinkled Donut",
+        "price": "327",
+        "rating": "4.9",
+        "ratingCount": 50,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Maple Glazed Donut",
+        "price": "126",
+        "rating": "4.9",
+        "ratingCount": 30,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Cinnamon Sugar Donut",
+        "price": "288",
+        "rating": "4.3",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Boston Cream Donut",
+        "price": "407",
+        "rating": "3.2",
+        "ratingCount": 73,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Powdered Donut",
+        "price": "238",
+        "rating": "3.5",
+        "ratingCount": 25,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Chocolate Glazed Donut",
+        "price": "495",
+        "rating": "4.1",
+        "ratingCount": 97,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1HgkJ9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Blueberry Donut",
+        "price": "248",
+        "rating": "4.0",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Apple Fritter",
+        "price": "474",
+        "rating": "3.2",
+        "ratingCount": 10,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Old Fashioned Donut",
+        "price": "215",
+        "rating": "4.3",
+        "ratingCount": 84,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Maple Bar Donut",
+        "price": "116",
+        "rating": "4.0",
+        "ratingCount": 43,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Jelly Filled Donut",
+        "price": "389",
+        "rating": "4.5",
+        "ratingCount": 47,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Powdered Sugar Twist",
+        "price": "250",
+        "rating": "3.8",
+        "ratingCount": 62,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/465529983/photo/field-of-different-types-of-donuts.jpg?s=1024x1024&w=is&k=20&c=nCHd-lxapsUm7xmRGh1Hgk9Gx7IdAo-B4y7YyKL9Ro=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "e9b472e5-d29e-4db3-bcb0-2f49cced2b1f",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Masala Dosa",
+        "price": "461",
+        "rating": "4.5",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Rava Dosa",
+        "price": "336",
+        "rating": "3.4",
+        "ratingCount": 100,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Onion Dosa",
+        "price": "153",
+        "rating": "4.4",
+        "ratingCount": 46,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Paneer Dosa",
+        "price": "210",
+        "rating": "3.3",
+        "ratingCount": 58,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Cheese Dosa",
+        "price": "127",
+        "rating": "4.0",
+        "ratingCount": 49,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Masala Onion Dosa",
+        "price": "385",
+        "rating": "3.2",
+        "ratingCount": 83,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Ghee Roast Dosa",
+        "price": "371",
+        "rating": "3.7",
+        "ratingCount": 55,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Mysore Masala Dosa",
+        "price": "369",
+        "rating": "3.7",
+        "ratingCount": 92,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Plain Dosa",
+        "price": "285",
+        "rating": "3.9",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Set Dosa",
+        "price": "202",
+        "rating": "4.5",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Paper Dosa",
+        "price": "293",
+        "rating": "3.5",
+        "ratingCount": 10,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Set Masala Dosa",
+        "price": "181",
+        "rating": "4.9",
+        "ratingCount": 38,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Pesarattu Dosa",
+        "price": "480",
+        "rating": "3.6",
+        "ratingCount": 66,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Ragi Dosa",
+        "price": "254",
+        "rating": "3.5",
+        "ratingCount": 81,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Neer Dosa",
+        "price": "217",
+        "rating": "4.5",
+        "ratingCount": 38,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.gettyimages.com/id/1938442701/photo/casual-dining-column-vegz-restaurant.jpg?s=1024x1024&w=gi&k=20&c=Zpu3lgpnwLNN6GvRMvbsGTgJRJ_cHmED-pT7RZGZbjY=",
+        "isCustomisable": false
+      }
+    ]
+  },
+  {
+    "id": "46c93c1d-beb0-4209-8178-749c184d19d8",
+     "menuItems": [
+      {
+        "id": 1,
+        "name": "Paneer Roll",
+        "price": "299",
+        "rating": "3.5",
+        "ratingCount": 87,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Chicken Roll",
+        "price": "436",
+        "rating": "4.5",
+        "ratingCount": 87,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Egg Roll",
+        "price": "328",
+        "rating": "3.4",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Veg Roll",
+        "price": "147",
+        "rating": "3.6",
+        "ratingCount": 16,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Paneer Tikka Roll",
+        "price": "305",
+        "rating": "3.9",
+        "ratingCount": 32,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Chicken Tikka Roll",
+        "price": "371",
+        "rating": "4.3",
+        "ratingCount": 60,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Cheese Roll",
+        "price": "132",
+        "rating": "3.1",
+        "ratingCount": 10,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Spicy Roll",
+        "price": "219",
+        "rating": "3.6",
+        "ratingCount": 70,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Mayo Roll",
+        "price": "236",
+        "rating": "3.1",
+        "ratingCount": 80,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Tandoori Roll",
+        "price": "325",
+        "rating": "3.7",
+        "ratingCount": 43,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Kathi Roll",
+        "price": "206",
+        "rating": "4.3",
+        "ratingCount": 89,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Seekh Roll",
+        "price": "348",
+        "rating": "4.5",
+        "ratingCount": 79,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Veggie Roll",
+        "price": "171",
+        "rating": "4.7",
+        "ratingCount": 22,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Cheese Chicken Roll",
+        "price": "420",
+        "rating": "3.4",
+        "ratingCount": 53,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Paneer Tandoori Roll",
+        "price": "375",
+        "rating": "3.6",
+        "ratingCount": 98,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://b.zmtcdn.com/data/pictures/chains/7/18705067/9f59d0d7a17202610c41540a2ba4c1e8.jpg?output-format=webp&fit=around|771.75:416.25&crop=771.75:416.25;*,*",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "b7a83e18-fd5c-4d93-bc67-29b2a8cb9152",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Cheeseburger",
+        "price": "389",
+        "rating": "3.4",
+        "ratingCount": 68,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Veggie Burger",
+        "price": "109",
+        "rating": "3.9",
+        "ratingCount": 51,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Bacon Burger",
+        "price": "318",
+        "rating": "3.2",
+        "ratingCount": 61,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Chicken Burger",
+        "price": "401",
+        "rating": "3.4",
+        "ratingCount": 53,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Double Patty Burger",
+        "price": "183",
+        "rating": "3.8",
+        "ratingCount": 19,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Spicy Burger",
+        "price": "277",
+        "rating": "4.3",
+        "ratingCount": 75,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Mushroom Burger",
+        "price": "407",
+        "rating": "4.8",
+        "ratingCount": 16,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 8,
+        "name": "BBQ Burger",
+        "price": "175",
+        "rating": "3.2",
+        "ratingCount": 26,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Cheddar Burger",
+        "price": "163",
+        "rating": "3.8",
+        "ratingCount": 47,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Classic Burger",
+        "price": "134",
+        "rating": "3.4",
+        "ratingCount": 40,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Avocado Burger",
+        "price": "403",
+        "rating": "3.8",
+        "ratingCount": 15,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 12,
+        "name": "Swiss Burger",
+        "price": "127",
+        "rating": "3.3",
+        "ratingCount": 29,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Double Cheese Burger",
+        "price": "229",
+        "rating": "3.5",
+        "ratingCount": 72,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Mighty Burger",
+        "price": "213",
+        "rating": "4.0",
+        "ratingCount": 71,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Jumbo Burger",
+        "price": "275",
+        "rating": "3.5",
+        "ratingCount": 41,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://plus.unsplash.com/premium_photo-1683619761468-b06992704398?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=365",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "cc3d82b4-c5e4-4e7c-8c7f-1f6f5d8a0e90",
+   "menuItems": [
+      {
+        "id": 1,
+        "name": "Paneer Roll",
+        "price": "394",
+        "rating": "4.7",
+        "ratingCount": 43,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Chicken Roll",
+        "price": "287",
+        "rating": "3.6",
+        "ratingCount": 79,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 3,
+        "name": "Egg Roll",
+        "price": "372",
+        "rating": "3.5",
+        "ratingCount": 38,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Veg Roll",
+        "price": "194",
+        "rating": "4.5",
+        "ratingCount": 29,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Paneer Tikka Roll",
+        "price": "444",
+        "rating": "3.1",
+        "ratingCount": 64,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Chicken Tikka Roll",
+        "price": "316",
+        "rating": "4.2",
+        "ratingCount": 36,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Cheese Roll",
+        "price": "412",
+        "rating": "4.3",
+        "ratingCount": 75,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 8,
+        "name": "Spicy Roll",
+        "price": "373",
+        "rating": "4.8",
+        "ratingCount": 75,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Mayo Roll",
+        "price": "231",
+        "rating": "4.2",
+        "ratingCount": 28,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Tandoori Roll",
+        "price": "317",
+        "rating": "4.1",
+        "ratingCount": 71,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Kathi Roll",
+        "price": "188",
+        "rating": "3.4",
+        "ratingCount": 14,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Seekh Roll",
+        "price": "157",
+        "rating": "4.4",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Veggie Roll",
+        "price": "442",
+        "rating": "4.2",
+        "ratingCount": 13,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Cheese Chicken Roll",
+        "price": "166",
+        "rating": "4.6",
+        "ratingCount": 31,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": false
+      },
+      {
+        "id": 15,
+        "name": "Paneer Tandoori Roll",
+        "price": "177",
+        "rating": "3.1",
+        "ratingCount": 24,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/1941912992/photo/spring-rolls-filled-with-meat-and-vegetables-served-with-soy-sauce-on-wooden-table.jpg?s=1024x1024&w=is&k=20&c=frk4cxdIxk6CHfvHgUl0OHY76ewwWksFg2LiEGUuNmI=",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "5f3b1a42-9e8f-49d1-b81c-82b31ff0cb93",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Aloo Paratha",
+        "price": "481",
+        "rating": "4.6",
+        "ratingCount": 96,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 2,
+        "name": "Paneer Tikka",
+        "price": "410",
+        "rating": "3.3",
+        "ratingCount": 50,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Chole Bhature",
+        "price": "387",
+        "rating": "4.4",
+        "ratingCount": 75,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 4,
+        "name": "Masala Dosa",
+        "price": "422",
+        "rating": "4.9",
+        "ratingCount": 47,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 5,
+        "name": "Samosa",
+        "price": "163",
+        "rating": "4.8",
+        "ratingCount": 91,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 6,
+        "name": "Vada Pav",
+        "price": "369",
+        "rating": "4.0",
+        "ratingCount": 22,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 7,
+        "name": "Rajma Chawal",
+        "price": "393",
+        "rating": "4.1",
+        "ratingCount": 12,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 8,
+        "name": "Pav Bhaji",
+        "price": "169",
+        "rating": "3.9",
+        "ratingCount": 84,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 9,
+        "name": "Dhokla",
+        "price": "361",
+        "rating": "4.9",
+        "ratingCount": 42,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 10,
+        "name": "Pani Puri",
+        "price": "289",
+        "rating": "3.4",
+        "ratingCount": 65,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 11,
+        "name": "Idli Sambhar",
+        "price": "203",
+        "rating": "3.7",
+        "ratingCount": 62,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Bhindi Masala",
+        "price": "167",
+        "rating": "3.1",
+        "ratingCount": 31,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": false
+      },
+      {
+        "id": 13,
+        "name": "Paneer Butter Masala",
+        "price": "297",
+        "rating": "4.8",
+        "ratingCount": 78,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 14,
+        "name": "Gobi Manchurian",
+        "price": "294",
+        "rating": "4.4",
+        "ratingCount": 72,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Rajma Galouti",
+        "price": "100",
+        "rating": "3.7",
+        "ratingCount": 54,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+        "isCustomisable": true
+      }
+    ]
+  },
+  {
+    "id": "2c74b91a-418d-4d94-9b6b-34ac7e2c1ff5",
+    "menuItems": [
+      {
+        "id": 1,
+        "name": "Chicken Biryani",
+        "price": "287",
+        "rating": "3.6",
+        "ratingCount": 47,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 2,
+        "name": "Mutton Biryani",
+        "price": "301",
+        "rating": "4.6",
+        "ratingCount": 27,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 3,
+        "name": "Paneer Biryani",
+        "price": "362",
+        "rating": "4.0",
+        "ratingCount": 36,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 4,
+        "name": "Veg Biryani",
+        "price": "225",
+        "rating": "3.2",
+        "ratingCount": 100,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 5,
+        "name": "Egg Biryani",
+        "price": "175",
+        "rating": "4.8",
+        "ratingCount": 31,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 6,
+        "name": "Fish Biryani",
+        "price": "133",
+        "rating": "4.6",
+        "ratingCount": 60,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 7,
+        "name": "Prawn Biryani",
+        "price": "418",
+        "rating": "3.9",
+        "ratingCount": 80,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 8,
+        "name": "Kolkata Biryani",
+        "price": "444",
+        "rating": "4.1",
+        "ratingCount": 91,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 9,
+        "name": "Hyderabadi Biryani",
+        "price": "284",
+        "rating": "3.5",
+        "ratingCount": 19,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 10,
+        "name": "Lucknowi Biryani",
+        "price": "224",
+        "rating": "3.4",
+        "ratingCount": 72,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 11,
+        "name": "Beef Biryani",
+        "price": "288",
+        "rating": "4.5",
+        "ratingCount": 34,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 12,
+        "name": "Cheese Biryani",
+        "price": "155",
+        "rating": "4.1",
+        "ratingCount": 18,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 13,
+        "name": "Chicken Tikka Biryani",
+        "price": "410",
+        "rating": "4.4",
+        "ratingCount": 18,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      },
+      {
+        "id": 14,
+        "name": "Hyderabadi Veg Biryani",
+        "price": "195",
+        "rating": "3.2",
+        "ratingCount": 51,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": true
+      },
+      {
+        "id": 15,
+        "name": "Egg Tandoori Biryani",
+        "price": "142",
+        "rating": "4.5",
+        "ratingCount": 26,
+        "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+        "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+        "isCustomisable": false
+      }
+    ]
+  },
+  {
+  "id": "6b1f2c38-c07a-4a2e-9307-18d8a70b58af",
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Butter Chicken",
+      "price": "287",
+      "rating": "3.6",
+      "ratingCount": 47,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 2,
+      "name": "Paneer Butter Masala",
+      "price": "301",
+      "rating": "4.6",
+      "ratingCount": 27,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 3,
+      "name": "Dal Makhani",
+      "price": "362",
+      "rating": "4.0",
+      "ratingCount": 36,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 4,
+      "name": "Chole Bhature",
+      "price": "225",
+      "rating": "3.2",
+      "ratingCount": 100,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 5,
+      "name": "Biryani",
+      "price": "175",
+      "rating": "4.8",
+      "ratingCount": 31,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 6,
+      "name": "Tandoori Chicken",
+      "price": "133",
+      "rating": "4.6",
+      "ratingCount": 60,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 7,
+      "name": "Rogan Josh",
+      "price": "418",
+      "rating": "3.9",
+      "ratingCount": 80,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 8,
+      "name": "Pav Bhaji",
+      "price": "444",
+      "rating": "4.1",
+      "ratingCount": 91,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 9,
+      "name": "Rajma Chawal",
+      "price": "284",
+      "rating": "3.5",
+      "ratingCount": 19,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 10,
+      "name": "Kadhi Chawal",
+      "price": "224",
+      "rating": "3.4",
+      "ratingCount": 72,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 11,
+      "name": "Keema Naan",
+      "price": "288",
+      "rating": "4.5",
+      "ratingCount": 34,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 12,
+      "name": "Masala Dosa",
+      "price": "155",
+      "rating": "4.1",
+      "ratingCount": 18,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 13,
+      "name": "Aloo Paratha",
+      "price": "410",
+      "rating": "4.4",
+      "ratingCount": 18,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    },
+    {
+      "id": 14,
+      "name": "Pani Puri",
+      "price": "195",
+      "rating": "3.2",
+      "ratingCount": 51,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": true
+    },
+    {
+      "id": 15,
+      "name": "Gulab Jamun",
+      "price": "142",
+      "rating": "4.5",
+      "ratingCount": 26,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://as1.ftcdn.net/jpg/05/70/04/02/1000_F_570040265_4xitPhVoc637RBqvEDHCX0BJ1mSpqtgo.jpg",
+      "isCustomisable": false
+    }
+  ]
+  },
+  {
+  "id": "88d7b3ec-48f6-4a2d-8ef3-4f5b3e0a6a7b",
+  "menuItems": [
+    {
+      "id": 1,
+      "name": "Chicken Biryani",
+      "price": "120",
+      "rating": "3.1",
+      "ratingCount": 96,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 2,
+      "name": "Mutton Biryani",
+      "price": "425",
+      "rating": "4.2",
+      "ratingCount": 44,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 3,
+      "name": "Veg Biryani",
+      "price": "176",
+      "rating": "4.3",
+      "ratingCount": 76,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 4,
+      "name": "Egg Biryani",
+      "price": "203",
+      "rating": "3.9",
+      "ratingCount": 90,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 5,
+      "name": "Paneer Biryani",
+      "price": "198",
+      "rating": "3.9",
+      "ratingCount": 54,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 6,
+      "name": "Fish Biryani",
+      "price": "434",
+      "rating": "5.0",
+      "ratingCount": 75,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 7,
+      "name": "Prawn Biryani",
+      "price": "113",
+      "rating": "4.0",
+      "ratingCount": 30,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 8,
+      "name": "Hyderabadi Biryani",
+      "price": "392",
+      "rating": "3.3",
+      "ratingCount": 41,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 9,
+      "name": "Kolkata Biryani",
+      "price": "99",
+      "rating": "4.3",
+      "ratingCount": 37,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 10,
+      "name": "Lucknowi Biryani",
+      "price": "247",
+      "rating": "3.8",
+      "ratingCount": 54,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 11,
+      "name": "Beef Biryani",
+      "price": "408",
+      "rating": "4.3",
+      "ratingCount": 72,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    },
+    {
+      "id": 12,
+      "name": "Lamb Biryani",
+      "price": "344",
+      "rating": "3.6",
+      "ratingCount": 51,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 13,
+      "name": "Keema Biryani",
+      "price": "361",
+      "rating": "3.2",
+      "ratingCount": 39,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 14,
+      "name": "Chettinad Biryani",
+      "price": "354",
+      "rating": "3.0",
+      "ratingCount": 50,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": false
+    },
+    {
+      "id": 15,
+      "name": "Bombay Biryani",
+      "price": "214",
+      "rating": "3.5",
+      "ratingCount": 70,
+      "description": "Delicious dish prepared with love, bursting with fresh flavors and authentic taste. A perfect choice for food lovers!",
+      "image": "https://media.istockphoto.com/id/488481490/photo/fish-biryani-with-basmati-rice-indian-food.jpg?s=1024x1024&w=is&k=20&c=hKU8nIevF2f1yGXwQg7Y0aUTU-JaE_ZERGTfWEBSo3k=",
+      "isCustomisable": true
+    }
+  ]
+  }
+]
