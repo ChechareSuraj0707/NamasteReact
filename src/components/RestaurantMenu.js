@@ -1,45 +1,70 @@
-import React from "react";
-import { useEffect } from "react";
+import { useEffect, useState } from "react";
+import { useParams ,useLocation} from "react-router-dom";
+import axios from "axios";
+import Shimmer from "./Shimmer";
+import { Menu_API } from "../utils/constants";
 
 const RestaurantMenu = () => {
-  const id = "f8b2e9a1-9c3f-4d45-91a4-2d57b9d31c11";
+const { resId } = useParams();
+const location = useLocation();
+const restaurantName = location.state?.name || "Restaurant";
+
+  const [resInfo, setResInfo] = useState(null);
+
   useEffect(() => {
+    if(!resId) return;
     fetchMenu();
-    // console.log("useEffect - fetch the menu data");
-  }, []);
-  //   const fetchMenu = async () => {
-  //     const data = await fetch(`http://localhost:3000/api/restroMenu/:${id}`);
-  //     console.log(data);
-  //     const json = await data.json();
-  //     console.log(json);
-  //   };
+  }, [resId]);
 
-  const fetchMenu = async () => {
-    try {
-      const data = await fetch(`http://localhost:3000/api/restroMenu/${id}`);
+ const fetchMenu = async () => {
+  try {
+    const response = await axios.get(
+      Menu_API + resId
+    );
 
-      //   if (!data.ok) {
-      //     console.error("Server returned", data.status);
-      //     return;
-      //   }
+    console.log("API DATA:", response.data);
+    setResInfo(response.data);
+  } catch (err) {
+    console.error("API ERROR:", err);
+  }
+};
 
-      const json = await data.json();
-      console.log(json);
-    } catch (err) {
-      console.error("Fetch error:", err);
-    }
-  };
+  // ⛔ FIX: Prevent crash when resInfo is null
+  if (!resInfo || !resInfo.menuItems) {
+    return <Shimmer />;
+  }
+
+  console.log("MENU ITEMS =", resInfo.menuItems);
 
   return (
     <div>
-      <h1> Name of the Restaurant</h1>
-      <h2> Menu </h2>
+      <h1>{restaurantName}</h1>
+      <h2>Restaurant Menu</h2>
+
       <ul>
-        <li>Pizza</li>
-        <li>Burger</li>
-        <li>Pasta</li>
-        <li>French Fries</li>
-        <li>Coke</li>
+        {resInfo.menuItems.map((item) => {
+          console.log("ITEM =", item);
+
+          return (
+            <li key={item.id} style={{ marginBottom: "20px" }}>
+              <h3>{item.name}</h3>
+              <p>Price: ₹{item.price}</p>
+              <p>
+                Rating: ⭐ {item.rating} ({item.ratingCount} reviews)
+              </p>
+              <p>{item.description}</p>
+
+              <img
+                src={item.image}
+                alt={item.name}
+                style={{ width: "150px", borderRadius: "10px" }}
+              />
+
+              {item.isCustomisable && <p>Customisable ✔️</p>}
+              <hr />
+            </li>
+          );
+        })}
       </ul>
     </div>
   );

@@ -69,3 +69,8 @@
   gap: 10px;
   justify-content: flex-start;
 }
+
+.user-card {
+  border: 1px solid black;
+  padding: 10px;
+} 
