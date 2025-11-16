@@ -2,6 +2,7 @@ import RestaurantCard from "./RestaurantCard";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Shimmer from "./Shimmer";
+import { Link } from "react-router-dom";  
 
 const Body = () => {
   const [listofRestaurants, setListOfRestaurants] = useState([]);
@@ -91,7 +92,7 @@ const Body = () => {
         {filteredRestaurant.map((restaurant) => {
           const resData = restaurant?.data ? restaurant.data : restaurant;
           const key = resData?.id ?? resData?.name ?? Math.random();
-          return <RestaurantCard key={key} resData={resData} />;
+          return <Link to = {"/reastaurant/"+ resData.id} state={{ name: resData.name }} key={resData.id}  style={{ textDecoration: "none" }} ><RestaurantCard  resData={resData} /></Link>;
         })}
       </div>
     </div>

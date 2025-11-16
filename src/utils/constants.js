@@ -4,4 +4,6 @@ const LOGO_URL = "https://www.logodesign.net/logo/smoking-burger-with-lettuce-36
 
 const CDN_URL = "https://via.placeholder.com/508x320?text=No+Image";
 
- export { LOGO_URL, CDN_URL };
+const Menu_API = "http://localhost:3000/api/restroMenu/";
+
+ export { LOGO_URL, CDN_URL, Menu_API };
