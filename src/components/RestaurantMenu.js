@@ -1,33 +1,13 @@
-import { useEffect, useState } from "react";
-import { useParams ,useLocation} from "react-router-dom";
-import axios from "axios";
+import { useParams, useLocation } from "react-router-dom";
 import Shimmer from "./Shimmer";
-import { Menu_API } from "../utils/constants";
+import useRestaurantMenu from "../utils/useRestaurantMenu";
 
 const RestaurantMenu = () => {
-const { resId } = useParams();
-const location = useLocation();
-const restaurantName = location.state?.name || "Restaurant";
+  const { resId } = useParams();
+  const location = useLocation();
+  const restaurantName = location.state?.name || "Restaurant";
 
-  const [resInfo, setResInfo] = useState(null);
-
-  useEffect(() => {
-    if(!resId) return;
-    fetchMenu();
-  }, [resId]);
-
- const fetchMenu = async () => {
-  try {
-    const response = await axios.get(
-      Menu_API + resId
-    );
-
-    console.log("API DATA:", response.data);
-    setResInfo(response.data);
-  } catch (err) {
-    console.error("API ERROR:", err);
-  }
-};
+  const resInfo = useRestaurantMenu(resId);
 
   // ⛔ FIX: Prevent crash when resInfo is null
   if (!resInfo || !resInfo.menuItems) {
