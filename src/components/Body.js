@@ -2,7 +2,9 @@ import RestaurantCard from "./RestaurantCard";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Shimmer from "./Shimmer";
-import { Link } from "react-router-dom";  
+import { Link } from "react-router-dom";
+import useonlineStatus from "../utils/useOnlineStatus";
+import TicTacToe from "./TicTacToe";
 
 const Body = () => {
   const [listofRestaurants, setListOfRestaurants] = useState([]);
@@ -40,9 +42,11 @@ const Body = () => {
     }
   };
 
-  // if(listofRestaurants.length === 0) {
-  //   return <div>Loading restaurants..</div>;
-  // }
+  const onlineStatus = useonlineStatus();
+
+  if (onlineStatus === false) {
+    return <TicTacToe />;
+  }
 
   return listofRestaurants.length === 0 ? (
     <Shimmer />
@@ -92,7 +96,16 @@ const Body = () => {
         {filteredRestaurant.map((restaurant) => {
           const resData = restaurant?.data ? restaurant.data : restaurant;
           const key = resData?.id ?? resData?.name ?? Math.random();
-          return <Link to = {"/reastaurant/"+ resData.id} state={{ name: resData.name }} key={resData.id}  style={{ textDecoration: "none" }} ><RestaurantCard  resData={resData} /></Link>;
+          return (
+            <Link
+              to={"/reastaurant/" + resData.id}
+              state={{ name: resData.name }}
+              key={resData.id}
+              style={{ textDecoration: "none" }}
+            >
+              <RestaurantCard resData={resData} />
+            </Link>
+          );
         })}
       </div>
     </div>
