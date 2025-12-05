@@ -1,6 +1,6 @@
 import { CDN_URL } from "../utils/constants";
 
-const RestaurantCard = (props) => {
+export const RestaurantCard = (props) => {
   const { resData } = props;
   const { image, name, rating, cuisine, offer, time } = resData;
   return (
@@ -16,4 +16,19 @@ const RestaurantCard = (props) => {
   );
 };
 
+//Higher Order Component (HOC) - A component that takes another component as input and returns a new component
+
+// input - RestaurantCard
+// output - EnhancedRestaurantCard (promoted version of RestaurantCard) 
+
+export const withPromotedLabel = (RestaurantCard) => {
+  return (props) => {
+    return (  
+      <div>
+        <label>Promoted</label>
+        <RestaurantCard {...props} />
+      </div>
+     ); 
+  }
+}
 export default RestaurantCard;

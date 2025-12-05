@@ -1,4 +1,4 @@
-import RestaurantCard from "./RestaurantCard";
+import RestaurantCard ,{withPromotedLabel}from "./RestaurantCard";
 import { useState, useEffect } from "react";
 import axios from "axios";
 import Shimmer from "./Shimmer";
@@ -12,6 +12,7 @@ const Body = () => {
   const [error, setError] = useState(null);
   const [searchText, setSearchText] = useState("");
   const [filteredRestaurant, setFilteredRestaurant] = useState([]);
+  const EnhancedRestaurantCard = withPromotedLabel(RestaurantCard);
 
   useEffect(() => {
     fetchRestaurants();
@@ -107,7 +108,11 @@ const Body = () => {
               key={resData.id}
               style={{ textDecoration: "none" }}
             >
-              <RestaurantCard resData={resData} />
+              {resData.promoted 
+  ? <EnhancedRestaurantCard resData={resData} />
+  : <RestaurantCard resData={resData} />
+}
+
             </Link>
           );
         })}
