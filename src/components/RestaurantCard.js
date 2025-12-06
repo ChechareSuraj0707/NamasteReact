@@ -19,16 +19,25 @@ export const RestaurantCard = (props) => {
 //Higher Order Component (HOC) - A component that takes another component as input and returns a new component
 
 // input - RestaurantCard
-// output - EnhancedRestaurantCard (promoted version of RestaurantCard) 
+// output - EnhancedRestaurantCard (promoted version of RestaurantCard)
 
 export const withPromotedLabel = (RestaurantCard) => {
   return (props) => {
-    return (  
+    return (
       <div>
-        <label>Promoted</label>
+        <label
+          className="absolute 
+  bg-black text-white
+  text-xs font-semibold
+  px-3 py-1
+  rounded-full
+  shadow-sm"
+        >
+          Promoted
+        </label>
         <RestaurantCard {...props} />
       </div>
-     ); 
-  }
-}
+    );
+  };
+};
 export default RestaurantCard;

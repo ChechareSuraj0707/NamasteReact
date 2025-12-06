@@ -1,51 +1,92 @@
+import { useEffect, useState } from "react";
 import { useParams, useLocation } from "react-router-dom";
+import axios from "axios";
 import Shimmer from "./Shimmer";
-import useRestaurantMenu from "../utils/useRestaurantMenu";
+import RestaurantCategory from "./RestaurantCategory";
+import { Menu_API } from "../utils/constants";
 
 const RestaurantMenu = () => {
   const { resId } = useParams();
   const location = useLocation();
-  const restaurantName = location.state?.name || "Restaurant";
+  const restaurantName = location.state?.name ?? "Restaurant";
 
-  const resInfo = useRestaurantMenu(resId);
+  const [resInfo, setResInfo] = useState(null);
 
-  // ⛔ FIX: Prevent crash when resInfo is null
+  useEffect(() => {
+    if (!resId) return;
+    fetchMenu();
+  }, [resId]);
+
+  const fetchMenu = async () => {
+    try {
+      const response = await axios.get(Menu_API + resId);
+      setResInfo(response.data);
+    } catch (err) {
+      console.error("API ERROR:", err);
+    }
+  };
+
   if (!resInfo || !resInfo.menuItems) {
     return <Shimmer />;
   }
 
-  console.log("MENU ITEMS =", resInfo.menuItems);
+  const menu = resInfo.menuItems;
+
+  // CATEGORY LOGIC
+  const categories = [
+    {
+      title: "All Dishes",
+      items: menu,
+    },
+    {
+      title: "Top Rated (Rating > 4)",
+      items: menu.filter((i) => Number(i.rating) > 4),
+    },
+    {
+      title: "Most Popular (Reviews > 70)",
+      items: menu.filter((i) => i.ratingCount > 70),
+    },
+    {
+      title: "Budget Friendly (Below ₹200)",
+      items: menu.filter((i) => Number(i.price) < 200),
+    },
+    {
+      title: "Premium Dishes (Above ₹300)",
+      items: menu.filter((i) => Number(i.price) > 300),
+    },
+    {
+      title: "Customisable Items",
+      items: menu.filter((i) => i.isCustomisable === true),
+    },
+    {
+      title: "Spicy Specials",
+      items: menu.filter(
+        (i) =>
+          i.name.toLowerCase().includes("spicy") ||
+          i.description.toLowerCase().includes("chili") ||
+          i.description.toLowerCase().includes("hot")
+      ),
+    },
+    {
+      title: "Chef's Specials",
+      items: menu.filter(
+        (i) => Number(i.rating) > 4.3 && i.ratingCount > 50
+      ),
+    },
+  ];
 
   return (
-    <div>
-      <h1>{restaurantName}</h1>
-      <h2>Restaurant Menu</h2>
+    <div className="p-6">
+      <h1 className="text-2xl font-bold mb-4">{restaurantName} Menu</h1>
 
-      <ul>
-        {resInfo.menuItems.map((item) => {
-          console.log("ITEM =", item);
-
-          return (
-            <li key={item.id} style={{ marginBottom: "20px" }}>
-              <h3>{item.name}</h3>
-              <p>Price: ₹{item.price}</p>
-              <p>
-                Rating: ⭐ {item.rating} ({item.ratingCount} reviews)
-              </p>
-              <p>{item.description}</p>
-
-              <img
-                src={item.image}
-                alt={item.name}
-                style={{ width: "150px", borderRadius: "10px" }}
-              />
-
-              {item.isCustomisable && <p>Customisable ✔️</p>}
-              <hr />
-            </li>
-          );
-        })}
-      </ul>
+      {/* Render all accordions */}
+      {categories.map((cat, index) => (
+        <RestaurantCategory
+          key={index}
+          title={cat.title}
+          items={cat.items}
+        />
+      ))}
     </div>
   );
 };
