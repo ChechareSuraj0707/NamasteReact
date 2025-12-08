@@ -4,11 +4,10 @@ const RestaurantCategory = ({ title, items }) => {
   const [isOpen, setIsOpen] = useState(false);
 
   return (
-    <div className="m-4 p-4 border border-gray-300 rounded-lg">
-
+    <div className="w-6/12 mx-auto p-4 border border-gray-300 rounded-lg">
       {/* Accordion Header */}
       <div
-        className="flex justify-between items-center cursor-pointer"
+        className="w-6/12 flex justify-between items-center cursor-pointer"
         onClick={() => setIsOpen(!isOpen)}
       >
         <h2 className="text-lg font-bold">{title}</h2>
@@ -33,18 +32,24 @@ const RestaurantCategory = ({ title, items }) => {
                   </p>
                   <p>₹{item.price}</p>
                 </div>
+                {/* Image + Add button wrapper */}
+                <div className="relative">
+                  <img
+                    src={item.image}
+                    alt={item.name}
+                    className="w-24 h-24 object-cover rounded"
+                  />
 
-                <img
-                  src={item.image}
-                  alt={item.name}
-                  className="w-20 h-20 object-cover rounded"
-                />
+                  {/* Add button on the image */}
+                  <button className="absolute bottom-1 right-1 bg-green-500 text-white text-sm px-2 py-1 rounded shadow">
+                    +Add
+                  </button>
+                </div>
               </div>
             ))
           )}
         </div>
       )}
-
     </div>
   );
 };

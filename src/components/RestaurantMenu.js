@@ -69,23 +69,19 @@ const RestaurantMenu = () => {
     },
     {
       title: "Chef's Specials",
-      items: menu.filter(
-        (i) => Number(i.rating) > 4.3 && i.ratingCount > 50
-      ),
+      items: menu.filter((i) => Number(i.rating) > 4.3 && i.ratingCount > 50),
     },
   ];
 
   return (
     <div className="p-6">
-      <h1 className="text-2xl font-bold mb-4">{restaurantName} Menu</h1>
+      <h1 className=" text-2xl font-bold mx-auto w-6/12 mb-3 justify-center items-center flex text-red-500">
+        {restaurantName} Menu
+      </h1>
 
       {/* Render all accordions */}
       {categories.map((cat, index) => (
-        <RestaurantCategory
-          key={index}
-          title={cat.title}
-          items={cat.items}
-        />
+        <RestaurantCategory key={index} title={cat.title} items={cat.items} />
       ))}
     </div>
   );
