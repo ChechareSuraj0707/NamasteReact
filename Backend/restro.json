@@ -156,7 +156,7 @@
     {
       "id": "b7a83e18-fd5c-4d93-bc67-29b2a8cb9152",
       "name": "Burger Singh",
-      "rating": 4.2,
+      "rating": 2.2,
       "time": "25–30 mins",
       "cuisine": "Burgers, Indian, Beverages",
       "location": "Balewadi",
@@ -167,7 +167,7 @@
     {
       "id": "cc3d82b4-c5e4-4e7c-8c7f-1f6f5d8a0e90",
       "name": "Mealful Rolls",
-      "rating": 4.3,
+      "rating": 3.3,
       "time": "20–25 mins",
       "cuisine": "Wraps, Rolls, North Indian",
       "location": "Pashan",
@@ -189,7 +189,7 @@
     {
       "id": "2c74b91a-418d-4d94-9b6b-34ac7e2c1ff5",
       "name": "Paradise Biryani",
-      "rating": 4.1,
+      "rating": 3.1,
       "time": "30–35 mins",
       "cuisine": "Biryani, Kebab, North Indian",
       "location": "Hinjewadi",
@@ -200,7 +200,7 @@
     {
       "id": "6b1f2c38-c07a-4a2e-9307-18d8a70b58af",
       "name": "Good Bowl",
-      "rating": 4.3,
+      "rating": 3.3,
       "time": "20–25 mins",
       "cuisine": "North Indian, Homestyle Meals",
       "location": "Baner",

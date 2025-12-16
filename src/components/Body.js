@@ -83,10 +83,12 @@ const Body = () => {
           <button
             className="px-4 py-2 bg-gray-100 m-4 rounded-lg"
             onClick={() => {
+                console.log("Top Rated button clicked!");
               const filteredList = listofRestaurants.filter((res) => {
                 const d = res?.data ? res.data : res;
                 return Number(d?.rating) > 4;
               });
+                console.log("Filtered Data:", filteredList);
               setListOfRestaurants(filteredList);
             }}
           >
@@ -98,7 +100,7 @@ const Body = () => {
       {error && <div style={{ color: "red" }}>Error: {error}</div>} */}
 
       <div className="res-container flex flex-wrap justify-center ">
-        {filteredRestaurant.map((restaurant) => {
+        {listofRestaurants.map((restaurant) => {
           const resData = restaurant?.data ? restaurant.data : restaurant;
           const key = resData?.id ?? resData?.name ?? Math.random();
           return (
