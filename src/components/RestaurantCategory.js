@@ -1,7 +1,14 @@
 import { useState } from "react";
+import { useDispatch } from "react-redux";
+import { addItem } from "../utils/cartSlice";
 
 const RestaurantCategory = ({ title, items }) => {
   const [isOpen, setIsOpen] = useState(false);
+  const dispatch = useDispatch();
+  
+  const handleAddItem = (item) => {
+    dispatch(addItem(item));
+  }
 
   return (
     <div className="w-6/12 mx-auto p-4 border border-gray-300 rounded-lg">
@@ -41,7 +48,7 @@ const RestaurantCategory = ({ title, items }) => {
                   />
 
                   {/* Add button on the image */}
-                  <button className="absolute bottom-1 right-1 bg-green-500 text-white text-sm px-2 py-1 rounded shadow">
+                  <button className="absolute bottom-1 right-1 bg-green-500 text-white text-sm px-2 py-1 rounded shadow" onClick={() => handleAddItem(item)}>
                     +Add
                   </button>
                 </div>
