@@ -1,11 +1,9 @@
 import React from "react";
 import User from "./User";
-
 const About = () => {
   return (
     <div>
       <h1>About</h1>
-      <h1>Nameste React by akshay saini</h1>
       <User />
     </div>
   );
